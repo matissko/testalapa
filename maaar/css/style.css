@@ -1,0 +1,35 @@
+.header{
+	background-color: green;
+	height: 40px;
+}
+#menu {
+	position: relative;
+	top: 10px;
+
+}
+#menu li:hover{
+	background-color: white
+}
+.footer{
+	background-color: yellow;
+}
+.left{
+	background-color:red;
+}
+.main{
+	background-color: blue;
+}
+.right{
+	background-color: azure;
+	float: left;
+	width: 600px;
+}
+.box{
+	background-color: orange;
+	width: 100px;
+	margin: 0px auto;
+}
+#menu 
+ li a{
+ color: blue
+}
